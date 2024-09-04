@@ -8,7 +8,7 @@
 
 <h3 align="left">Activity:</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilarin"/>
 
 ------
 
@@ -16,23 +16,19 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,discord,nodejs,cpp"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,discord,cpp"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlliite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqllite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,pytest"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -44,7 +40,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
