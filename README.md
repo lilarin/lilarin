@@ -1,45 +1,27 @@
-# GLORY TO THE HEROES OF UKRAINE!!!
+<details>
+
+<summary><b>GLORY TO THE HEROES OF UKRAINE!!!</b></summary>
+
 [![IMAGE ALT TEXT](https://i.imgur.com/GFVyfi9.png)](https://youtu.be/R9VRSd8rCyI "NO MERCY. GLORY TO THE HEROES OF UKRAINE!!!")
 
+</details>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+
 ------
 
-<h3 align="left">Activity:</h3>
+### Welcome! 🧙‍♂️
+I'm <b>rin</b>, a Python backend developer, Disnake bots developer, product manager, and former product owner of two of the largest Ukrainian SCP
+game projects, Kofevarka and LatteInc. </br> I work on Django & Disnake projects in my free time and am currently in the 4th year of my Bachelor's studies. <br> <br>
+<img height="50" src="https://skillicons.dev/icons?i=python,django,fastapi,bots,cpp,docker,mysql,postgresql,mongodb,redis,git,github,postman,figma"/>
 
+------
+
+<details>
+
+<summary><b>GitHub Stats 💻</b></summary>
+    
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilarin"/>
 
-------
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,discord,bots,cpp"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqllite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,clion"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,figma,unity"/></td>
-    </tr>
-</table>
+</details>
