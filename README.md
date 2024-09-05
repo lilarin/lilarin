@@ -23,6 +23,6 @@ game projects, Kofevarka and LatteInc. </br> I work on Django & Disnake projects
 <summary><b>GitHub Stats 💻</b></summary>
 
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilarin"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=lilarin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="lilarin"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilarin"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=lilarin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="lilarin"/>
 </details>
