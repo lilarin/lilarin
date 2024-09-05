@@ -12,7 +12,7 @@
 ------
 
 ### Welcome! 🧙‍♂️
-I'm <b>rin</b>, a Python backend developer, Disnake bots developer, project manager, and former product owner of two of the largest Ukrainian SCP:Secret Laboratory
+I'm <b>rin</b>, a Python backend developer, Disnake bots developer, project manager, and former product owner of two of the largest Ukrainian <br> SCP:Secret Laboratory
 game projects, Kofevarka and LatteInc. </br> I work on Django & Disnake projects in my free time and am currently in the 4th year of my Bachelor's studies. <br> <br>
 <img height="50" src="https://skillicons.dev/icons?i=python,django,fastapi,bots,cpp,docker,mysql,postgresql,mongodb,redis,git,github,postman,figma"/>
 
