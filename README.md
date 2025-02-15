@@ -18,7 +18,7 @@ game projects. Currently working at DevelopsToday. </br> I mainly use FastAPI, D
 ------
 
 <details>
-  <summary><b>GitHub Stats 💻</b></summary></br>
+  <summary><b>Public GitHub Stats 💻</b></summary></br>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight)</a>
 </details>
