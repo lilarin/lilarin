@@ -12,17 +12,13 @@
 ------
 
 ### Welcome! 🧙‍♂️
-I'm <b>rin</b>, a Python backend developer, Disnake bots developer, project manager and former product owner of two of the largest Ukrainian <br> SCP:Secret Laboratory
-game projects, Kofevarka and LatteInc. </br> I work on Django & Disnake projects in my free time and am currently in the 4th year of my Bachelor's studies. <br> <br>
-<img height="50" src="https://skillicons.dev/icons?i=python,django,fastapi,bots,cpp,docker,mysql,postgresql,mongodb,redis,git,github,postman,figma"/>
+I'm <b>rin</b>, a Python backend developer, Disnake bots developer, project manager and former product owner of two of the largest Ukrainian SCP:Secret Laboratory
+game projects. </br> I work on FastAPI, Django & Disnake projects in my free time and am currently in the 4th year of my Bachelor's studies. <br> <br>
+![Skill Icons](https://skillicons.dev/icons?i=python,fastapi,django,discord,bots,cpp,react,docker,postgresql,mongodb,redis,git,github,postman,figma&perline=50)
 
-------
 
 <details>
-
-<summary><b>GitHub Stats 💻</b></summary>
-
-<br>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lilarin&theme=tokyonight" alt="lilarin"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilarin"/>
+  <summary><b>GitHub Stats 💻</b></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight)</a>
 </details>
