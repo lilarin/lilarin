@@ -2,7 +2,7 @@
 
 <summary><b>GLORY TO THE HEROES OF UKRAINE!!!</b></summary>
 
-[![IMAGE ALT TEXT](https://i.imgur.com/GFVyfi9.png)](https://youtu.be/R9VRSd8rCyI "NO MERCY. GLORY TO THE HEROES OF UKRAINE!!!")
+[![](https://i.imgur.com/GFVyfi9.png)](https://youtu.be/R9VRSd8rCyI "NO MERCY. GLORY TO THE HEROES OF UKRAINE!!!")
 
 </details>
 
