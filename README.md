@@ -18,7 +18,7 @@ game projects. </br> I work on FastAPI, Django & Disnake projects in my free tim
 ------
 
 <details>
-  <summary><b>GitHub Stats 💻</b></summary>
+  <summary><b>GitHub Stats 💻</b></summary></br>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight)</a>
 </details>
