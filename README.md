@@ -11,8 +11,8 @@
 ------
 
 ### Welcome! 🧙‍♂️
-I'm <b>rin</b>, a Python backend developer, Disnake bots developer, project manager and former product owner of two of the largest Ukrainian SCP: Secret Laboratory
-game projectsand previously worked at DevelopsToday. I also completed an internship at the State Bureau of Investigation (Державне бюро розслідувань), Ukraine's anti-corruption agency.
+I'm <b>rin</b>, a Python backend developer, Disnake bots developer and former product owner of two of the largest Ukrainian SCP: Secret Laboratory
+game projects. I also completed an internship at the State Bureau of Investigation (Державне бюро розслідувань), Ukraine's anti-corruption agency.
 Currently, I am on a temporary break from work to focus on my pet projects and studies. <br> I primarily use FastAPI, Django, Disnake, Vite React & C++ in my personal projects. <br> <br>
 ![Skill Icons](https://skillicons.dev/icons?i=python,fastapi,django,discord,bots,cpp,react,docker,postgresql,mongodb,redis,git,github,postman,figma&perline=50)
 
