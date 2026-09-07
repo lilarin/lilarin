@@ -61,11 +61,23 @@ infrastructure, observability, and resilience engineering.
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=transparent" alt="GitHub statistics">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=transparent" alt="Most used languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=adbac7&icon_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=transparent&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=transparent&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f" alt="GitHub statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=adbac7&icon_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=transparent&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=transparent&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f" alt="Most used languages">
+</picture>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=transparent&background=00000000&border=00000000&stroke=768390&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=adbac7&dates=768390">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=transparent&background=00000000&border=00000000&stroke=57606a&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=57606a">
+  <img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=transparent&background=00000000&border=00000000&stroke=57606a&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=57606a" alt="GitHub contribution streak">
+</picture>
 
 </div>
