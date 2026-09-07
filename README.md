@@ -24,11 +24,6 @@ infrastructure, observability, and resilience engineering.
 
 ### AI / LLM
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-2E6F40?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
 LangGraph · LangChain · LiteLLM · CrewAI · LangSmith · RAG · Pinecone · ChromaDB
 
 ### Backend and data
