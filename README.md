@@ -75,6 +75,10 @@ infrastructure, observability, and resilience engineering.
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default" alt="GitHub contribution streak">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default">
+  <img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default" alt="GitHub contribution streak">
+</picture>
 
 </div>
