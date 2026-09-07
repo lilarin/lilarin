@@ -4,8 +4,6 @@
 
 Production LLM systems · RAG pipelines · Multi-agent architectures · Python backends
 
-[![GitHub](https://img.shields.io/badge/GitHub-lilarin-181717?style=flat&logo=github)](https://github.com/lilarin)
-
 </div>
 
 ## About me
