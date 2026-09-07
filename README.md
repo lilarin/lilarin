@@ -25,6 +25,7 @@ infrastructure, observability, and resilience engineering.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-1C3C3C?style=flat-square)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-2E6F40?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2E6F40?style=flat-square)
