@@ -24,15 +24,39 @@ infrastructure, observability, and resilience engineering.
 
 ### AI / LLM
 
-LangGraph · LangChain · LiteLLM · CrewAI · LangSmith · RAG · Pinecone · ChromaDB
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-2E6F40?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2E6F40?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-2E6F40?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2E6F40?style=flat-square)
 
 ### Backend and data
 
-Python · FastAPI · Django · Django REST Framework · SQL · PostgreSQL · MongoDB · Redis · Celery · ARQ · Kafka
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-0C4B33?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![ARQ](https://img.shields.io/badge/ARQ-444444?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
 
 ### Cloud and delivery
 
-Docker · Kubernetes · Helm · Terraform · AWS · GCP · CI/CD · Observability
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-444444?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-444444?style=flat-square)
 
 ## GitHub activity
 
