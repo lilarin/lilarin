@@ -17,7 +17,11 @@ infrastructure, observability, and resilience engineering.
 ## What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,javascript,cpp,docker,kubernetes,terraform,aws,gcp,postgresql,mongodb,redis,rabbitmq,kafka,git,github&perline=9" alt="Technology stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,react,javascript,cpp,docker,kubernetes,terraform,aws,gcp,postgresql,mongodb,redis,rabbitmq,kafka,git,github&perline=9&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,react,javascript,cpp,docker,kubernetes,terraform,aws,gcp,postgresql,mongodb,redis,rabbitmq,kafka,git,github&perline=9&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,javascript,cpp,docker,kubernetes,terraform,aws,gcp,postgresql,mongodb,redis,rabbitmq,kafka,git,github&perline=9&theme=light" alt="Technology stack" />
+  </picture>
 </p>
 
 ### AI / LLM
