@@ -1,25 +1,56 @@
-<details>
+<div align="center">
 
-<summary><b>GLORY TO THE HEROES OF UKRAINE!!!</b></summary>
+# Python / AI Engineer
 
-[![](https://i.imgur.com/GFVyfi9.png)](https://youtu.be/R9VRSd8rCyI "NO MERCY. GLORY TO THE HEROES OF UKRAINE!!!")
+Production LLM systems · RAG pipelines · Multi-agent architectures · Python backends
 
-</details>
+[![GitHub](https://img.shields.io/badge/GitHub-lilarin-181717?style=flat&logo=github)](https://github.com/lilarin)
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</div>
 
-------
+## About me
 
-### Welcome! 🧙‍♂️
-I'm <b>rin</b>, a Python backend developer, Disnake bots developer and former product owner of two of the largest Ukrainian SCP: Secret Laboratory
-game projects. I also completed an internship at the State Bureau of Investigation (Державне бюро розслідувань), Ukraine's anti-corruption agency.
-Currently, I am on a temporary break from work to focus on my pet projects and studies. <br> I primarily use FastAPI, Django, Disnake, Vite React & C++ in my personal projects. <br> <br>
-![Skill Icons](https://skillicons.dev/icons?i=python,fastapi,django,discord,bots,cpp,react,docker,postgresql,mongodb,redis,git,github,postman,figma&perline=50)
+I specialize in building production-grade AI products from scratch: reliable LLM integrations, retrieval workflows,
+multi-agent orchestration, and backend services that support them.
 
-------
+My work combines application development with model execution, third-party integrations, data pipelines, cloud
+infrastructure, observability, and resilience engineering.
 
-<details>
-  <summary><b>Public GitHub Stats 💻</b></summary></br>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lilarin&show_icons=true&locale=en&layout=compact&theme=tokyonight)</a>
-</details>
+## What I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,javascript,cpp,docker,kubernetes,terraform,aws,gcp,postgresql,mongodb,redis,rabbitmq,kafka,git,github&perline=9" alt="Technology stack" />
+</p>
+
+### AI / LLM
+
+LangGraph · LangChain · LiteLLM · CrewAI · LangSmith · RAG · Pinecone · ChromaDB
+
+### Backend and data
+
+Python · FastAPI · Django · Django REST Framework · SQL · PostgreSQL · MongoDB · Redis · Celery · ARQ · Kafka
+
+### Cloud and delivery
+
+Docker · Kubernetes · Helm · Terraform · AWS · GCP · CI/CD · Observability
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=default">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=default" alt="GitHub statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=default">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=default" alt="Most used languages">
+</picture>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default" alt="GitHub contribution streak">
+
+</div>
