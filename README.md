@@ -61,23 +61,11 @@ infrastructure, observability, and resilience engineering.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=default">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=default" alt="GitHub statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=default">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=default" alt="Most used languages">
-</picture>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilarin&theme=transparent" alt="GitHub statistics">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilarin&theme=transparent" alt="Most used languages">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default">
-  <img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=default" alt="GitHub contribution streak">
-</picture>
+<img src="https://streak-stats.demolab.com/?user=lilarin&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 
 </div>
